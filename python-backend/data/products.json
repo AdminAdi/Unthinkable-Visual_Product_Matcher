@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "image": "product-images/electronics/iphone-15-pro.jpg",
+    "price": 999,
+    "description": "Latest iPhone with titanium design"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "image": "product-images/electronics/samsung-s24.jpg",
+    "price": 1199,
+    "description": "Flagship Android phone with S Pen"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "image": "product-images/electronics/pixel-8-pro.jpg",
+    "price": 899,
+    "description": "AI-powered camera phone"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 12",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "image": "product-images/electronics/oneplus-12.jpg",
+    "price": 799,
+    "description": "Fast charging flagship phone"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 14 Pro",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "image": "product-images/electronics/xiaomi-14.jpg",
+    "price": 699,
+    "description": "Value flagship with Leica camera"
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro 14\"",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "image": "product-images/electronics/macbook-pro-14.jpg",
+    "price": 1999,
+    "description": "M3 Pro chip laptop for professionals"
+  },
+  {
+    "id": 7,
+    "name": "Dell XPS 15",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "image": "product-images/electronics/dell-xps-15.jpg",
+    "price": 1799,
+    "description": "Premium Windows laptop"
+  },
+  {
+    "id": 8,
+    "name": "ThinkPad X1 Carbon",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "image": "product-images/electronics/thinkpad-x1.jpg",
+    "price": 1499,
+    "description": "Business ultrabook"
+  },
+  {
+    "id": 9,
+    "name": "HP Spectre x360",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "image": "product-images/electronics/hp-spectre.jpg",
+    "price": 1399,
+    "description": "2-in-1 convertible laptop"
+  },
+  {
+    "id": 10,
+    "name": "ASUS ROG Zephyrus",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "image": "product-images/electronics/asus-rog.jpg",
+    "price": 1899,
+    "description": "Gaming laptop with RTX 4070"
+  },
+  {
+    "id": 11,
+    "name": "AirPods Pro 2",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "image": "product-images/electronics/airpods-pro-2.jpg",
+    "price": 249,
+    "description": "Active noise cancellation earbuds"
+  },
+  {
+    "id": 12,
+    "name": "Sony WH-1000XM5",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "image": "product-images/electronics/sony-wh1000xm5.jpg",
+    "price": 399,
+    "description": "Premium noise cancelling headphones"
+  },
+  {
+    "id": 13,
+    "name": "Bose QuietComfort Ultra",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "image": "product-images/electronics/bose-qc-ultra.jpg",
+    "price": 429,
+    "description": "Immersive audio headphones"
+  },
+  {
+    "id": 14,
+    "name": "Samsung Galaxy Buds2 Pro",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "image": "product-images/electronics/galaxy-buds2-pro.jpg",
+    "price": 229,
+    "description": "Hi-Fi wireless earbuds"
+  },
+  {
+    "id": 15,
+    "name": "Jabra Elite 85t",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "image": "product-images/electronics/jabra-elite-85t.jpg",
+    "price": 199,
+    "description": "Advanced ANC earbuds"
+  },
+  {
+    "id": 16,
+    "name": "Levi's 501 Jeans",
+    "category": "Clothing",
+    "subcategory": "Men's Wear",
+    "image": "product-images/clothing/levis-501.jpg",
+    "price": 89,
+    "description": "Classic straight fit jeans"
+  },
+  {
+    "id": 17,
+    "name": "Nike Dri-FIT T-Shirt",
+    "category": "Clothing",
+    "subcategory": "Men's Wear",
+    "image": "product-images/clothing/nike-dri-fit-tee.jpg",
+    "price": 35,
+    "description": "Moisture-wicking athletic tee"
+  },
+  {
+    "id": 18,
+    "name": "Adidas Originals Hoodie",
+    "category": "Clothing",
+    "subcategory": "Men's Wear",
+    "image": "product-images/clothing/adidas-hoodie.jpg",
+    "price": 75,
+    "description": "Classic trefoil hoodie"
+  },
+  {
+    "id": 19,
+    "name": "Ralph Lauren Polo Shirt",
+    "category": "Clothing",
+    "subcategory": "Men's Wear",
+    "image": "product-images/clothing/ralph-lauren-polo.jpg",
+    "price": 98,
+    "description": "Classic fit polo shirt"
+  },
+  {
+    "id": 20,
+    "name": "Tommy Hilfiger Jacket",
+    "category": "Clothing",
+    "subcategory": "Men's Wear",
+    "image": "product-images/clothing/tommy-jacket.jpg",
+    "price": 189,
+    "description": "Water-resistant windbreaker"
+  },
+  {
+    "id": 21,
+    "name": "Zara Floral Dress",
+    "category": "Clothing",
+    "subcategory": "Women's Wear",
+    "image": "product-images/clothing/zara-floral-dress.jpg",
+    "price": 69,
+    "description": "Summer floral midi dress"
+  },
+  {
+    "id": 22,
+    "name": "H&M Skinny Jeans",
+    "category": "Clothing",
+    "subcategory": "Women's Wear",
+    "image": "product-images/clothing/hm-skinny-jeans.jpg",
+    "price": 49,
+    "description": "High-waisted skinny fit"
+  },
+  {
+    "id": 23,
+    "name": "Forever 21 Blouse",
+    "category": "Clothing",
+    "subcategory": "Women's Wear",
+    "image": "product-images/clothing/forever21-blouse.jpg",
+    "price": 29,
+    "description": "Casual chiffon blouse"
+  },
+  {
+    "id": 24,
+    "name": "Uniqlo Cashmere Sweater",
+    "category": "Clothing",
+    "subcategory": "Women's Wear",
+    "image": "product-images/clothing/uniqlo-cashmere.jpg",
+    "price": 79,
+    "description": "Soft cashmere pullover"
+  },
+  {
+    "id": 25,
+    "name": "Gap Denim Jacket",
+    "category": "Clothing",
+    "subcategory": "Women's Wear",
+    "image": "product-images/clothing/gap-denim-jacket.jpg",
+    "price": 89,
+    "description": "Classic denim trucker jacket"
+  },
+  {
+    "id": 26,
+    "name": "Nike Air Max 90",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "image": "product-images/footwear/nike-air-max-90.jpg",
+    "price": 130,
+    "description": "Iconic Air Max cushioning"
+  },
+  {
+    "id": 27,
+    "name": "Adidas Ultraboost",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "image": "product-images/footwear/adidas-ultraboost.jpg",
+    "price": 180,
+    "description": "Energy-returning running shoes"
+  },
+  {
+    "id": 28,
+    "name": "New Balance 574",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "image": "product-images/footwear/new-balance-574.jpg",
+    "price": 85,
+    "description": "Classic retro sneakers"
+  },
+  {
+    "id": 29,
+    "name": "Converse Chuck Taylor",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "image": "product-images/footwear/converse-chuck-taylor.jpg",
+    "price": 65,
+    "description": "Timeless canvas sneakers"
+  },
+  {
+    "id": 30,
+    "name": "Vans Old Skool",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "image": "product-images/footwear/vans-old-skool.jpg",
+    "price": 70,
+    "description": "Classic skate shoes"
+  },
+  {
+    "id": 31,
+    "name": "Instant Pot Duo",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "image": "product-images/home/instant-pot.jpg",
+    "price": 99,
+    "description": "7-in-1 multi-cooker"
+  },
+  {
+    "id": 32,
+    "name": "KitchenAid Stand Mixer",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "image": "product-images/home/kitchenaid-mixer.jpg",
+    "price": 379,
+    "description": "Professional stand mixer"
+  },
+  {
+    "id": 33,
+    "name": "Dyson V15 Vacuum",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "image": "product-images/home/dyson-v15.jpg",
+    "price": 649,
+    "description": "Cordless stick vacuum"
+  },
+  {
+    "id": 34,
+    "name": "Ninja Air Fryer",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "image": "product-images/home/ninja-air-fryer.jpg",
+    "price": 129,
+    "description": "Large capacity air fryer"
+  },
+  {
+    "id": 35,
+    "name": "Breville Espresso Machine",
+    "category": "Home & Kitchen",
+    "subcategory": "Appliances",
+    "image": "product-images/home/breville-espresso.jpg",
+    "price": 699,
+    "description": "Barista-quality espresso maker"
+  },
+  {
+    "id": 36,
+    "name": "IKEA POÄNG Chair",
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "image": "product-images/home/ikea-poang.jpg",
+    "price": 149,
+    "description": "Comfortable armchair"
+  },
+  {
+    "id": 37,
+    "name": "Herman Miller Aeron",
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "image": "product-images/home/herman-miller-aeron.jpg",
+    "price": 1395,
+    "description": "Ergonomic office chair"
+  },
+  {
+    "id": 38,
+    "name": "West Elm Mid-Century Sofa",
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "image": "product-images/home/west-elm-sofa.jpg",
+    "price": 1299,
+    "description": "Modern 3-seater sofa"
+  },
+  {
+    "id": 39,
+    "name": "CB2 Dining Table",
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "image": "product-images/home/cb2-dining-table.jpg",
+    "price": 899,
+    "description": "Industrial dining table"
+  },
+  {
+    "id": 40,
+    "name": "Article Sven Sofa",
+    "category": "Home & Kitchen",
+    "subcategory": "Furniture",
+    "image": "product-images/home/article-sven-sofa.jpg",
+    "price": 1999,
+    "description": "Charme tan leather sofa"
+  },
+  {
+    "id": 41,
+    "name": "Patagonia Down Jacket",
+    "category": "Sports & Outdoors",
+    "subcategory": "Outerwear",
+    "image": "product-images/sports/patagonia-down-jacket.jpg",
+    "price": 299,
+    "description": "Lightweight insulated jacket"
+  },
+  {
+    "id": 42,
+    "name": "The North Face Backpack",
+    "category": "Sports & Outdoors",
+    "subcategory": "Bags",
+    "image": "product-images/sports/north-face-backpack.jpg",
+    "price": 129,
+    "description": "Durable hiking backpack"
+  },
+  {
+    "id": 43,
+    "name": "Yeti Rambler Tumbler",
+    "category": "Sports & Outdoors",
+    "subcategory": "Accessories",
+    "image": "product-images/sports/yeti-tumbler.jpg",
+    "price": 35,
+    "description": "Insulated drink tumbler"
+  },
+  {
+    "id": 44,
+    "name": "Coleman Camping Tent",
+    "category": "Sports & Outdoors",
+    "subcategory": "Camping",
+    "image": "product-images/sports/coleman-tent.jpg",
+    "price": 189,
+    "description": "4-person instant tent"
+  },
+  {
+    "id": 45,
+    "name": "REI Trail Running Shoes",
+    "category": "Sports & Outdoors",
+    "subcategory": "Footwear",
+    "image": "product-images/sports/rei-trail-shoes.jpg",
+    "price": 120,
+    "description": "All-terrain running shoes"
+  },
+  {
+    "id": 46,
+    "name": "Ray-Ban Aviator Sunglasses",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image": "product-images/accessories/rayban-aviator.jpg",
+    "price": 154,
+    "description": "Classic aviator sunglasses"
+  },
+  {
+    "id": 47,
+    "name": "Fossil Leather Watch",
+    "category": "Accessories",
+    "subcategory": "Watches",
+    "image": "product-images/accessories/fossil-watch.jpg",
+    "price": 175,
+    "description": "Minimalist leather watch"
+  },
+  {
+    "id": 48,
+    "name": "Herschel Supply Wallet",
+    "category": "Accessories",
+    "subcategory": "Wallets",
+    "image": "product-images/accessories/herschel-wallet.jpg",
+    "price": 35,
+    "description": "Slim card holder wallet"
+  },
+  {
+    "id": 49,
+    "name": "Tumi Backpack",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "product-images/accessories/tumi-backpack.jpg",
+    "price": 395,
+    "description": "Premium business backpack"
+  },
+  {
+    "id": 50,
+    "name": "Michael Kors Handbag",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image": "product-images/accessories/michael-kors-handbag.jpg",
+    "price": 298,
+    "description": "Designer leather handbag"
+  },
+  {
+    "id": 51,
+    "name": "Canon EOS R6",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "image": "product-images/electronics/canon-eos-r6.jpg",
+    "price": 2499,
+    "description": "Mirrorless camera with 20MP sensor"
+  },
+  {
+    "id": 52,
+    "name": "GoPro Hero 12",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "image": "product-images/electronics/gopro-hero-12.jpg",
+    "price": 399,
+    "description": "Action camera with 5.3K video"
+  },
+  {
+    "id": 53,
+    "name": "iPad Pro 12.9\"",
+    "category": "Electronics",
+    "subcategory": "Tablets",
+    "image": "product-images/electronics/ipad-pro.jpg",
+    "price": 1099,
+    "description": "Powerful tablet with M2 chip"
+  },
+  {
+    "id": 54,
+    "name": "Kindle Paperwhite",
+    "category": "Electronics",
+    "subcategory": "E-Readers",
+    "image": "product-images/electronics/kindle-paperwhite.jpg",
+    "price": 139,
+    "description": "Waterproof e-reader"
+  },
+  {
+    "id": 55,
+    "name": "Fitbit Charge 6",
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "image": "product-images/electronics/fitbit-charge-6.jpg",
+    "price": 159,
+    "description": "Fitness tracker with GPS"
+  }
+]

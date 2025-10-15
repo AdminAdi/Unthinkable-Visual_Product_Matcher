@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Build files
+/dist/
+/build/
+
+# Frontend
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Backend
+/backend/node_modules/
+/backend/uploads/*
+!/backend/uploads/.gitkeep
+
+# Python Backend
+/python-backend/__pycache__/
+/python-backend/*.py[cod]
+/python-backend/*$py.class
+/python-backend/*.so
+/python-backend/.Python
+/python-backend/*.egg-info/
+/python-backend/venv/
+/python-backend/env/
+/python-backend/ENV/
+/python-backend/.venv/
+/python-backend/dist/
+/python-backend/build/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temp files
+*~
+*.swp
+*.swo
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
