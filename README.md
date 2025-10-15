@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Animesh Kumar**
+**Aditya Singh**
 
 ## 🙏 Acknowledgments
 
@@ -162,5 +162,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by Animesh Kumar
+  Made with ❤️ by Aditya Singh
 </div>
